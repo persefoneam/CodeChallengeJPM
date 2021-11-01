@@ -1,5 +1,5 @@
 # CodeChallengeJPM
-This is a .Net Senior developer code challenge for a very famous finance and bank company. 
+This is a .Net Senior developer code challenge for a very famous finance and banking company. 
 The code challenge passed the assestment, the technical interview was successfull, I rejected the final offer. 
 
 This was the challenge: 
